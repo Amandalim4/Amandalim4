@@ -1,4 +1,15 @@
-## Hi there 👋
+Meu perfil 💗
+
+Amanda Lima 
+
+@amandasantosdacruzlima753@gmail.com
+
+estudante do ALURA
+
+![image](https://github.com/user-attachments/assets/42ee475f-3359-43e8-bdb5-8898f9d288e0)
+
+
+
 
 <!--
 **Amandalim4/Amandalim4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
