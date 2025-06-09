@@ -6,8 +6,6 @@ Amanda Lima
 
 estudante do ALURA
 
-![image](https://github.com/user-attachments/assets/42ee475f-3359-43e8-bdb5-8898f9d288e0)
-
 
 
 
